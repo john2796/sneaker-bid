@@ -1,9 +1,10 @@
 /** @type {import('next').NextConfig} */
+
 const nextConfig = {
   images: {
     remotePatterns: [
       {
-        hostname: "pub-31881cc45b684c00abbff36f8d057ffc.r2.dev",
+        hostname: "pub-e6938366ab214ff3a449d5dca07f0b0e.r2.dev",
         protocol: "https",
         port: "",
       },
@@ -12,11 +13,6 @@ const nextConfig = {
         protocol: "https",
         port: "",
       },
-      {
-        hostname: "image.similarpng.com",
-        protocol: "https",
-        port: "",
-      }
     ],
   },
 };

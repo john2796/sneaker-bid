@@ -9,7 +9,7 @@ Tech:
 - [Lucide](https://lucide.dev/guide/packages/lucide-react)
 - [Docker](https://docs.docker.com/desktop/install/mac-install/)
 - [Next Auth](https://next-auth.js.org/providers/google)
-- Cloudfare
+- [Cloudfare](https://developers.cloudflare.com/r2/buckets/cors/#add-cors-policies-from-the-dashboard)
 
 
 
